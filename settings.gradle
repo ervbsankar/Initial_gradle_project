@@ -1,0 +1,3 @@
+rootProject.name = 'intial_gradle_project'
+include 'com.tcs.raknas'
+
